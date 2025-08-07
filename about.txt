@@ -1,0 +1,3 @@
+Geethanjali lagudu
+    BCA
+GitHub is not just a place to store code, but a platform to collaborate with others using version control.
